@@ -20,6 +20,3 @@
 - ⚡ Fun fact: I love Sports, especially Cricket.
 <br>
 
----
-
-<details>
