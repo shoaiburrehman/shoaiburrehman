@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Shoaib</h1>
+<h1 align="center">Hi, I am Shoaib</h1>
 <p align="center">
   <a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer;Mobile+App+Developer;Aspiring+Learner&center=true&width=500&height=50"></a>
 </p>
@@ -58,7 +58,7 @@
 
 ---
 
-<h4> Connect with me🤝: <h4>
+<h4> Connect with me: <h4>
 <a href="https://www.linkedin.com/in/shoaiburrehmankhan/">
  <img align="left" alt=" Shoaib Ur Rehman Khan | Linkedin" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
 </a>
