@@ -24,7 +24,7 @@
 <code><a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" height="30"></a></code>
 <code><a href="https://getbootstrap.com/" target="_blank"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png?20210507000024"></a></code>
 <code><a href="https://git-scm.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></a></code>
-<br>
+<br><br>
 
 
 <h3>
@@ -40,6 +40,7 @@
 <code><a href="https://aws.amazon.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg"></a></code>
 <br>
 
+---
 
 <h3>
  📔 GitHub Stats:
@@ -55,3 +56,24 @@
 </p>
   <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shoaiburrehman&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" alt="shoaiburrehman" /></p>
 <br>
+
+---
+
+<h4> Connect with me🤝: <h4>
+  </hr>
+  <a href="https://www.linkedin.com/in/shoaiburrehmankhan/">
+   <img align="left" alt=" Shoaib Ur Rehman Khan | Linkedin" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
+  </a>
+  <a href="mailto:shoaiburrehman@outlook.com">
+    <img align="left" alt="Shoaib Ur Rehman Khan | Outlook" width="26px" src="https://www.vectorlogo.zone/logos/outlook/outlook-icon.svg" />
+  </a>
+   <a href="https://github.com/shoaiburrehman">
+    <img align="left" alt="Shoaib Ur Rehman Khan | Github" width="26px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
+  </a>
+  <a href="https://shoaiburrehman.github.io/">
+    <img align="left" alt="Om Patel | Portfolio" width="26px" src="https://www.svgrepo.com/show/474386/internet.svg" />
+  </a>
+  <br>
+  
+<p align="right" > Created with 🧡 by <a href="https://github.com/shoaiburrehman">Shoaib Ur Rehman Khan</a></p>
+<p align="right" > <img src="https://komarev.com/ghpvc/?username=shoaiburrehman&label=Profile%20views&color=0e75b6&style=flat" alt="shoaiburrehman" /> </p>
