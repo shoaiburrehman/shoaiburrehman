@@ -59,20 +59,16 @@
 ---
 
 <h4> Connect with me🤝: <h4>
-  </hr>
-  <a href="https://www.linkedin.com/in/shoaiburrehmankhan/">
-   <img align="left" alt=" Shoaib Ur Rehman Khan | Linkedin" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
-  </a>
-  <a href="mailto:shoaiburrehman@outlook.com">
-    <img align="left" alt="Shoaib Ur Rehman Khan | Outlook" width="26px" src="https://www.vectorlogo.zone/logos/outlook/outlook-icon.svg" />
-  </a>
-   <a href="https://github.com/shoaiburrehman">
-    <img align="left" alt="Shoaib Ur Rehman Khan | Github" width="26px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
-  </a>
-  <a href="https://shoaiburrehman.github.io/">
-    <img align="left" alt="Om Patel | Portfolio" width="26px" src="https://www.svgrepo.com/show/474386/internet.svg" />
-  </a>
-  <br>
-  
-<p align="right" > Created with 🧡 by <a href="https://github.com/shoaiburrehman">Shoaib Ur Rehman Khan</a></p>
-<p align="right" > <img src="https://komarev.com/ghpvc/?username=shoaiburrehman&label=Profile%20views&color=0e75b6&style=flat" alt="shoaiburrehman" /> </p>
+<a href="https://www.linkedin.com/in/shoaiburrehmankhan/">
+ <img align="left" alt=" Shoaib Ur Rehman Khan | Linkedin" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
+</a>
+<a href="mailto:shoaiburrehman@outlook.com">
+  <img align="left" alt="Shoaib Ur Rehman Khan | Outlook" width="26px" src="https://www.vectorlogo.zone/logos/outlook/outlook-icon.svg" />
+</a>
+ <a href="https://github.com/shoaiburrehman">
+  <img align="left" alt="Shoaib Ur Rehman Khan | Github" width="26px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
+</a>
+<a href="https://shoaiburrehman.github.io/">
+  <img align="left" alt="Om Patel | Portfolio" width="26px" src="https://www.svgrepo.com/show/474386/internet.svg" />
+</a>
+<br>
