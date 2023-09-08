@@ -63,7 +63,7 @@
  <img align="left" alt=" Shoaib Ur Rehman Khan | Linkedin" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
 </a>
 <a href="mailto:shoaiburrehman@outlook.com">
-  <img align="left" alt="Shoaib Ur Rehman Khan | Outlook" width="26px" src="https://www.vectorlogo.zone/logos/outlook/outlook-icon.svg" />
+  <img align="left" alt="Shoaib Ur Rehman Khan | Outlook" width="26px" src="https://en.m.wikipedia.org/wiki/File:Microsoft_Office_Outlook_(2018%E2%80%93present).svg" />
 </a>
  <a href="https://github.com/shoaiburrehman">
   <img align="left" alt="Shoaib Ur Rehman Khan | Github" width="26px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
