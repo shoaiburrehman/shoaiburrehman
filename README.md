@@ -12,7 +12,7 @@
 
 ---
 
-<details>
+
 <summary>
   ✨ Tech stack currently using:
 </summary>
@@ -27,5 +27,4 @@
 <code><a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" height="30"></a></code>
 <code><a href="https://getbootstrap.com/" target="_blank"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png?20210507000024"></a></code>
 <code><a href="https://git-scm.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></a></code>
-</details>
 <br>
