@@ -13,10 +13,9 @@
 ---
 
 
-<summary>
-  ✨ Tech stack currently using:
-</summary>
-   <br>
+<h3>  ✨ Tech stack currently using:
+</h3>
+<br>
 <code><a href="https://www.javascript.com/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a></code>
 <code><a href="https://www.typescriptlang.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript"></a></code>
 <code><a href="https://reactnative.dev/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></a></code>
