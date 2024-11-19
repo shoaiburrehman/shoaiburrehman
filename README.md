@@ -5,8 +5,8 @@
 
 <p align="center">
   <em>
-    I am <b>Shoaib</b>, a graduate <b>Software Engineer</b> from <b>Usman Institute of Technology (NED)</b>, Karachi, Pakistan.
-    <b>Skilled Mobile App Developer (React Native) with 3 and half years of experience</b>&nbsp; and <b> Artificial Intelligence Enthusiast.</b> 
+    I am <b>Shoaib</b>, a <b>Software Engineer</b> from <b>Usman Institute of Technology (NED)</b>, Karachi, Pakistan.
+    <b>Skilled Mobile App Developer (React Native) with 5 years of experience</b>&nbsp; and <b> Artificial Intelligence Enthusiast.</b> 
   <br>
 </p>
 
